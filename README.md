@@ -21,7 +21,7 @@ Gestor de usuarios con Supabase, autenticación OAuth (Google) y backend en Node
 
    - `npm install`
    - Configura Supabase en `.env`.
-   - `npm start`
+   - `npm run dev`
 
 2. **Backend:**
 
