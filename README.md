@@ -1,5 +1,3 @@
-# README - Proyecto Supabase 🚀
-
 ## Descripción
 
 Gestor de usuarios con Supabase, autenticación OAuth (Google) y backend en Node.js para validar tokens y replicar datos en MongoDB. 🎉
